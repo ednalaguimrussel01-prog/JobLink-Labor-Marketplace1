@@ -38,3 +38,8 @@ These are demonstration credentials for the prototype. Change or remove them bef
 ## Notes
 
 This version is a front-end prototype. It does not use a server-side backend or a shared database. Data is stored in the browser's localStorage, so it is local to that browser and device. The sample implementation also stores passwords in browser storage; it is not suitable for production use without secure server-side authentication and password hashing.
+
+## Project Status
+
+JobLink Labor Marketplace project is completed.
+This repository contains the HTML, CSS, and JavaScript implementation of the system.
